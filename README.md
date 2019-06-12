@@ -50,3 +50,6 @@ https://www.amazon.com/Adafruit-PowerBoost-1000-Charger-Rechargeable/dp/B01BMRBT
 
 NVIDIA Jetson Nano
 https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/
+
+ESP8266 Websockets
+https://tttapa.github.io/ESP8266/Chap14%20-%20WebSocket.html
