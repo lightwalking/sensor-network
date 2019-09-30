@@ -24,12 +24,18 @@ Create a network of sensors and monitors around the home. The collected data wil
 
 ### Phase 1
 * API server running on existing Raspberry Pi cluster
+  * k3s
 * 3 Raspberry Pi Zero W nodes (1 node/floor)
   * Required: Environmental sensors
   * Optional: Light, Motion, Sound dB sensors
 
 
 ## Resources and Component Ideas
+
+k3s
+https://k3s.io/
+https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/
+
 EasyIoT
 https://iot-playground.com/
 
